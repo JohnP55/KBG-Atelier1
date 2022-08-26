@@ -1,0 +1,22 @@
+{
+  "name": "atelier-1",
+  "version": "1.0.0",
+  "description": "Atelier 1 du cours Développement de services d'échange de données",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnP55/KBG-Atelier1.git"
+  },
+  "author": "JohnP55",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnP55/KBG-Atelier1/issues"
+  },
+  "homepage": "https://github.com/JohnP55/KBG-Atelier1#readme",
+  "dependencies": {
+    "query-string": "^7.1.1"
+  }
+}
